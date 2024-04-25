@@ -1,6 +1,6 @@
 ---
 title: Leisure Byte
-publishDate: 2019-10-02 00:00:00
+publishDate: 2021-10-02 00:00:00
 img: /assets/leisurebyte.png
 img_alt: LeisureByte homepage.
 description: |

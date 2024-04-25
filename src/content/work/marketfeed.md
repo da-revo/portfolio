@@ -1,6 +1,6 @@
 ---
 title: marketfeed (YC S21)
-publishDate: 2020-03-02 00:00:00
+publishDate: 2023-03-02 00:00:00
 img: /assets/marketfeed.png
 img_alt: marketfeed landing page
 description: |
