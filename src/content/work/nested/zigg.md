@@ -34,8 +34,6 @@ virtual machine.
 - Presented the product at Manipal Entrepreneurship Summit 2022.
 - Gained 300+ active users after launch.
 
-We had to shut down the startup as our original plan was to raise capital after gaining a solid userbase. But due to the pandemic and the ensuing lockdowns, we could not get the needed userbase in time and so had to cease operating.
-
 #### Tech Stack
 
 - Flutter
@@ -44,3 +42,5 @@ We had to shut down the startup as our original plan was to raise capital after 
 - Firebase
 - Docker
 - Digital Ocean
+
+We had to shut down the startup as our original plan was to raise capital after gaining a solid userbase. But due to the pandemic and the ensuing lockdowns, we could not get the needed userbase in time and so had to cease operating.

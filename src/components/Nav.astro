@@ -12,9 +12,10 @@ const textLinks: { label: string; href: string }[] = [
 
 /** Icon links to social media — edit these with links to your profiles! */
 const iconLinks: { label: string; href: string; icon: keyof typeof iconPaths }[] = [
+	{ label: 'Linktree', href: 'https://linktr.ee/da_revo', icon: 'linktree-logo' },
+	{ label: 'Twitter', href: 'https://twitter.com/da_r3vo', icon: 'twitter-logo' },
 	{ label: 'LinkedIn', href: 'https://linkedin.com/in/cyril-joy-mangalan', icon: 'linkedin-logo' },
 	{ label: 'GitHub', href: 'https://github.com/da-revo', icon: 'github-logo' },
-	{ label: 'Twitter', href: 'https://twitter.com/da_r3vo', icon: 'twitter-logo' },
 	// { label: 'YouTube', href: 'https://www.youtube.com/@da_revo5747', icon: 'youtube-logo' },
 	// { label: 'Twitch', href: 'https://twitch.tv/da_revo', icon: 'twitch-logo' },
 	// { label: 'CodePen', href: 'https://codepen.io/me', icon: 'codepen-logo' },
@@ -53,6 +54,7 @@ const iconLinks: { label: string; href: string; icon: keyof typeof iconPaths }[]
 								},
 							]}
 							href={href}
+							target="_blank"
 						>
 							{label}
 						</a>
