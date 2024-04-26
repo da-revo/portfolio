@@ -43,4 +43,14 @@ virtual machine.
 - Docker
 - Digital Ocean
 
+#### Shutdown
+
 We had to shut down the startup as our original plan was to raise capital after gaining a solid userbase. But due to the pandemic and the ensuing lockdowns, we could not get the needed userbase in time and so had to cease operating.
+
+#### Artifacts
+
+![ZIGG Flyer](/assets/zigg-flyer.jpeg)
+
+![Platform Architecture](/assets/zigg-arch.jpeg)
+
+![ZIGG Screenshot](/assets/zigg-screen.jpeg)

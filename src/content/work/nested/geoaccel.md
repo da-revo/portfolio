@@ -14,6 +14,8 @@ tags:
 
 This is a project I am secretly working on. It combines my interest in political philosophy with the world of startups. The overarching objective is to enact Georgist Land Value Taxes through the free market. Here's a great [primer on Georgism by Lars Doucet on Astral Codex Ten](https://www.astralcodexten.com/p/your-book-review-progress-and-poverty). Real Estate is not my area of expertise but I'm learning about it and slowly building out the business model.
 
+![Vacant Lot](/assets/vacant-lot.jpg)
+
 ---
 
 I know I have not given you a lot. Here, check out some of my other crazy thinking in political theory: [Democracy is the Myth of India](https://medium.com/screaming-into-the-void/democracy-is-the-myth-of-india-f0582668026b)
