@@ -12,7 +12,7 @@ tags:
   - Go
 ---
 
-- Grew marketfeed (a fast-growing Y-Combinator backed fintech startup) to $16million+ assets under management as a core part of the Software Engineering team.
+- Grew marketfeed (a fast-growing Y-Combinator backed fintech startup) to $16million+ assets under management as one of the early Software Engineers at the company.
 - Designed and implemented multiple new features and services to the GCP backend using various technologies like serverless functions, realtime databases, REST APIs, webhooks, message queues, etc.
 - Worked directly under the Engineering Lead and participated in code reviews; reviewing code of engineers both junior and senior to me.
 - Followed best practices of clean code, dependency injection, domain driven design (DDD), test driven development (TDD), etc
