@@ -2,14 +2,13 @@
 title: Bridcodes Global
 publishDate: 2019-09-01 00:00:00
 img: /assets/bridcodes-logo.png
-img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
+img_alt: Logo of Bridcodes Global
 description: |
-  We paired with a cutting-edge music API and a team of horticulturalists
-  to build AI-generated playlists that maximize houseplant health.
+  Worked on revamping two Flutter apps.
 tags:
-  - Dev
-  - Branding
-  - Backend
+  - Flutter
+  - App Dev
+  - UI
 ---
 
 Designed and implemented updated UI/UX and developed bug fixes for two

@@ -1,14 +1,13 @@
 ---
 title: UManage
 publishDate: 2019-10-02 00:00:00
-img: /assets/umanage/umanage-logo.png
+img: /assets/umanage/umanage-logo.jpeg
 img_alt: Soft pink and baby blue water ripples together in a subtle texture.
 description: |
-  We developed brand positioning and design assets for the launch
-  of a new colored water product.
+  Created a mobile app for fleet management.
 tags:
-  - Design
-  - Branding
+  - Flutter
+  - App Dev
 ---
 
 I worked with my classmate at the time, [Rahul Sathanapalli (currently, Senior Software Engineer @ Bloomberg)](https://www.linkedin.com/in/skvrahul/), to build this app for Tonsetech.

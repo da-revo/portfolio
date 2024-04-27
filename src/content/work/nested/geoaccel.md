@@ -8,7 +8,7 @@ description: |
 tags:
   - Finance
   - Real Estate
-  - Entrepreneurship
+  - Business
 ---
 >Poverty and wealth disparity appear to be perversely linked with progress, the rent is too damn high, and it's all because of land.
 

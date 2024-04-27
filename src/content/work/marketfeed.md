@@ -4,12 +4,12 @@ publishDate: 2023-03-02 00:00:00
 img: /assets/marketfeed.png
 img_alt: marketfeed landing page
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  Worked as an early Software Engineer at a YC backed Fintech startup.
 tags:
-  - Engineering
-  - Dev
   - Typescript
   - Go
+  - React
+  - Fintech
 ---
 
 - Grew marketfeed (a fast-growing Y-Combinator backed fintech startup) to $16million+ assets under management as one of the early Software Engineers at the company.
