@@ -15,7 +15,7 @@ tags:
 [Marketfeed](https://www.marketfeed.com/) is a fast-growing Y Combinator-backed fintech startup that aims to empower retail investors make consistent returns from the stock market.
 
 - Contributed to growing marketfeed to $16million+ AUM as one of the early Software Engineers at the company.
-- Designed and implemented multiple new features and services to the GCP backend using various technologies like serverless functions, realtime databases, REST APIs, webhooks, message queues, etc.
+- Designed and implemented multiple new features and services to the GCP backend using various technologies like serverless functions, realtime databases, REST APIs, webhooks, message queues, etc
 - Worked directly under the Engineering Lead and participated in code reviews; reviewing code of engineers both junior and senior to me.
 - Followed best practices of clean code, dependency injection, domain driven design (DDD), test driven development (TDD), etc
 - Created and implemented a new user onboarding flow with React and Tailwind CSS
@@ -34,7 +34,7 @@ tags:
 - TypeScript
 - JavaScript
 - Node.js
-- Nest.js
+- NestJS
 - Mixpanel
 - CRM
 - Webhooks
