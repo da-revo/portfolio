@@ -41,3 +41,7 @@ tags:
 - REST
 - gRPC
 - OpenAPI
+
+---
+
+![Marketfeed Memento](/assets/mf-appreciation.png)
