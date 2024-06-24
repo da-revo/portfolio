@@ -13,7 +13,6 @@ tags:
 ---
 
 Here's a link to the landing page for ZIGGURAT: [getzigg.com](https://getzigg.com)
-Here's a video to a demo of an early version of the app: [Google Drive](https://drive.google.com/file/d/1x5bDAjVm3BK_hxlpFTMxQeGYsx-v71x5/view?usp=drive_link)
 
 The app is no longer listed on the iOS App Store or the Google Play Store. The [web app](https://web.getzigg.com/) is still up. But the app was originally created targeting just the mobile platforms (iOS and Android) and before Flutter's support for the web. So it is not an optimal experience.
 
