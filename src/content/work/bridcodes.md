@@ -13,3 +13,15 @@ tags:
 
 Designed and implemented updated UI/UX and developed bug fixes for two
 inventory management Flutter iOS apps.
+
+![A starry night sky.](/assets/bridcodes/b1.jpeg)
+
+![A starry night sky.](/assets/bridcodes/b2.jpeg)
+
+![A starry night sky.](/assets/bridcodes/b3.jpeg)
+
+![A starry night sky.](/assets/bridcodes/b4.jpeg)
+
+![A starry night sky.](/assets/bridcodes/b5.jpeg)
+
+![A starry night sky.](/assets/bridcodes/b6.jpeg)

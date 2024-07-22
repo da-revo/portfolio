@@ -16,6 +16,10 @@ This is a project I am secretly working on. It combines my interest in political
 
 ![Vacant Lot](/assets/vacant-lot.jpg)
 
+[GeoAccel Pitch Deck](https://www.slideshare.net/slideshow/geoaccel-pitch-deck-cyril-joy-mangalan/270215128)
+
+#
+
 ---
 
 I know I have not given you a lot. Here, check out some of my other crazy thinking in political theory: [Democracy is the Myth of India](https://medium.com/screaming-into-the-void/democracy-is-the-myth-of-india-f0582668026b)
