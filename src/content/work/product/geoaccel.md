@@ -18,7 +18,50 @@ This is a project I am secretly working on. It combines my interest in political
 
 [GeoAccel Pitch Deck](https://www.slideshare.net/slideshow/geoaccel-pitch-deck-cyril-joy-mangalan/270215128)
 
-#
+#### Company Profile
+
+- Vision
+- Mission
+- Unigue Selling Proposition
+- Products / Services
+- Team
+
+#### Market Research
+
+- Industry profile and outlook
+- Competitors
+- Analysis
+- Size TAM / SAM / SOM
+- Customer Survey
+- Market Opportunity
+
+#### Sales & Marketing
+
+- Personas
+- Marketing Strategy
+- Marketing Activities
+- Marketing Objectives
+- Positioning Strategy
+- Pricing Strategyxs
+- Sales Process and Projection
+- Strategic Partnerships
+
+#### Operations
+
+- Location
+- HR
+- Process
+  - Supplier Selection
+- Location
+- Regulations
+- Risks
+  - Mitigation Strategies
+
+#### Finance
+
+- Financing Sources
+- Cashflow
+- Breakeven Calculation for Customers
 
 ---
 
