@@ -21,6 +21,7 @@ My responsibiilites at ZIGGURAT can be broadly categorised as Software Engineeri
 #### Product Management
 
 - Launched ZIGG, a product that helped manage communities by building online social layers over offline events.
+- Hiring
 - Supervised 3 technical and 3 business interns to work on developing and launching the product.
 - Presented the product at Manipal Entrepreneurship Summit 2022.
 - Launch:
@@ -63,7 +64,21 @@ We had to shut down the startup as our original plan was to raise capital after 
 
 ![ZIGG Flyer](/assets/zigg/flyer.jpeg)
 
+![Interface Inspiration](/assets/zigg/card-stack.jpg)
+
+![Wireframes](/assets/zigg/wireframes.jpg)
+
+![Recruitment Poster](/assets/zigg/recruitment.jpg)
+
+![Instagram Post 1](/assets/zigg/insta-1.jpg)
+
+![Instagram Post 2](/assets/zigg/insta-2.jpg)
+
 ![Trello Backlog](/assets/zigg/trello.png)
+
+![High Fidelity Prototypes](/assets/zigg/early-screens.png)
+
+![Startup School Weekly Update (Metrics)](/assets/zigg/metrics.png)
 
 ![Platform Architecture](/assets/zigg/arch.jpeg)
 

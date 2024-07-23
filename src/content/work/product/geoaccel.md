@@ -1,7 +1,7 @@
 ---
 title: GeoAccel
 publishDate: 2019-09-01 00:00:00
-img: /assets/geoaccel-pitch.png
+img: /assets/geoaccel/pitch.png
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
   GeoAccel is a project to change people's and governments' relationship to land forever.
@@ -16,6 +16,10 @@ This is a project I am secretly working on. It combines my interest in political
 
 ![Vacant Lot](/assets/vacant-lot.jpg)
 
+---
+
+<iframe src="https://1drv.ms/p/c/4e385ee3e54da3ba/IQP0xV0KhOkfRofxu9GNC2fkAbMSSgEyMrvE4clPIf0EOUk?em=2&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+
 [GeoAccel Pitch Deck](https://www.slideshare.net/slideshow/geoaccel-pitch-deck-cyril-joy-mangalan/270215128)
 
 #### Company Profile
@@ -25,6 +29,10 @@ This is a project I am secretly working on. It combines my interest in political
 - Unigue Selling Proposition
 - Products / Services
 - Team
+
+![Business Model](/assets/geoaccel/model-canvas.png)
+
+![Process](/assets/geoaccel/process.png)
 
 #### Market Research
 
@@ -42,7 +50,7 @@ This is a project I am secretly working on. It combines my interest in political
 - Marketing Activities
 - Marketing Objectives
 - Positioning Strategy
-- Pricing Strategyxs
+- Pricing Strategy
 - Sales Process and Projection
 - Strategic Partnerships
 
@@ -57,11 +65,15 @@ This is a project I am secretly working on. It combines my interest in political
 - Risks
   - Mitigation Strategies
 
+![Floor Plan](/assets/geoaccel/floor-plan-3d.png)
+
 #### Finance
 
 - Financing Sources
 - Cashflow
 - Breakeven Calculation for Customers
+
+#### The future
 
 ---
 
