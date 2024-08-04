@@ -1,7 +1,7 @@
 ---
 title: MusicDox
 publishDate: 2022-03-04 00:00:00
-img: /assets/music-dox.png.png
+img: /assets/music-dox.png
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
   MusicDox: Google Docs for music production
