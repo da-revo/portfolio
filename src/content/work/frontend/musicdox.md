@@ -17,3 +17,5 @@ tags:
 <https://devpost.com/software/musicdox>
 
 Built at Hack the 6ix 2024, Toronto
+
+![WireFrames](public/assets/music-dox-wires.jpeg)
