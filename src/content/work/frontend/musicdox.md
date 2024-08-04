@@ -18,4 +18,6 @@ tags:
 
 Built at Hack the 6ix 2024, Toronto
 
+<iframe width="600" height="380" src="https://www.youtube.com/embed/XJFz4v1kdrA" title="Hack the 6ix - MusicDox - Video Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ![WireFrames](/assets/music-dox-wires.jpeg)
