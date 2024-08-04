@@ -18,4 +18,4 @@ tags:
 
 Built at Hack the 6ix 2024, Toronto
 
-![WireFrames](public/assets/music-dox-wires.jpeg)
+![WireFrames](/assets/music-dox-wires.jpeg)
