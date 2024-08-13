@@ -18,7 +18,7 @@ This is a project I am secretly working on. It combines my interest in political
 
 ---
 
-<iframe src="https://1drv.ms/p/c/4e385ee3e54da3ba/IQP0xV0KhOkfRofxu9GNC2fkAbMSSgEyMrvE4clPIf0EOUk?em=2&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://1drv.ms/p/c/4e385ee3e54da3ba/IQP0xV0KhOkfRofxu9GNC2fkAbMSSgEyMrvE4clPIf0EOUk?em=2&amp;wdAr=1.7777777777777777" width="380px" height="230px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 [GeoAccel Pitch Deck](https://www.slideshare.net/slideshow/geoaccel-pitch-deck-cyril-joy-mangalan/270215128)
 
