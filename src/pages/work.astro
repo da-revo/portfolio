@@ -8,32 +8,63 @@ import PortfolioPreview from '../components/PortfolioPreview.astro';
 import Hero from '../components/Hero.astro';
 import Grid from '../components/Grid.astro';
 
-const projects = (await getCollection('work')).sort(
+const allWork = (await getCollection('work')).sort(
 	(a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()
 );
+
+const experience = allWork.filter((p) => p.data.category === 'experience');
+const projects = allWork.filter((p) => p.data.category === 'project');
 ---
 
 <BaseLayout
-	title="My Work | Cyril Joy Mangalan"
-	description="Learn about Cyril Joy Mangalan's most recent projects"
+	title="Work | Cyril Joy Mangalan"
+	description="Engineering and product work by Cyril Joy Mangalan — built cove.dev as CTO, early engineer at marketfeed (YC S21)."
 >
 	<div class="stack gap-20">
 		<main class="wrapper stack gap-8">
 			<Hero
-				title="My Work"
-				tagline="See some of my previous work below to get an idea of my past experience."
+				title="Work"
+				tagline="Startups, products, and infrastructure I've built."
 				align="start"
 			/>
-			<Grid variant="offset">
-				{
-					projects.map((project) => (
-						<li>
-							<PortfolioPreview project={project} />
-						</li>
-					))
-				}
-			</Grid>
+			<section class="stack gap-4">
+				<h2 class="section-heading">Experience</h2>
+				<Grid variant="offset">
+					{
+						experience.map((project) => (
+							<li>
+								<PortfolioPreview project={project} />
+							</li>
+						))
+					}
+				</Grid>
+			</section>
+			<section class="stack gap-4">
+				<h2 class="section-heading">Projects</h2>
+				<Grid variant="offset">
+					{
+						projects.map((project) => (
+							<li>
+								<PortfolioPreview project={project} />
+							</li>
+						))
+					}
+				</Grid>
+			</section>
 		</main>
 		<ContactCTA />
 	</div>
 </BaseLayout>
+
+<style>
+	.section-heading {
+		font-size: var(--text-xl);
+		color: var(--gray-0);
+	}
+
+	@media (min-width: 50em) {
+		.section-heading {
+			font-size: var(--text-2xl);
+		}
+	}
+</style>

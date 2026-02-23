@@ -2,17 +2,18 @@
 title: Calculator
 publishDate: 2022-03-04 00:00:00
 img: /assets/calculator.png
-img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
+img_alt: Calculator app
 description: |
-  Calculator
+  A responsive calculator built with HTML, CSS, and JavaScript.
 tags:
   - HTML
   - CSS
   - Tailwind
   - JavaScript
+category: project
 ---
 
-Here's a calculator I made:
+A responsive calculator built with vanilla HTML, CSS, and JavaScript.
 
 <iframe
 height="700" style="width: 100%;"
