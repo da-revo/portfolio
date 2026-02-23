@@ -4,24 +4,31 @@ publishDate: 2019-09-01 00:00:00
 img: /assets/bridcodes-logo.png
 img_alt: Logo of Bridcodes Global
 description: |
-  Worked on revamping two Flutter apps.
+  Redesigned and shipped updates for two inventory management Flutter apps.
 tags:
   - Flutter
+  - Dart
   - App Dev
   - UI
+category: experience
 ---
 
-Designed and implemented updated UI/UX and developed bug fixes for two
-inventory management Flutter iOS apps.
+At Bridcodes Global, I redesigned the UI/UX and developed bug fixes for two inventory management iOS apps built with Flutter.
 
-![A starry night sky.](/assets/bridcodes/b1.jpeg)
+#### Tools Used
 
-![A starry night sky.](/assets/bridcodes/b2.jpeg)
+- Flutter
+- Dart
+- iOS
 
-![A starry night sky.](/assets/bridcodes/b3.jpeg)
+![Bridcodes App Screenshot 1](/assets/bridcodes/b1.jpeg)
 
-![A starry night sky.](/assets/bridcodes/b4.jpeg)
+![Bridcodes App Screenshot 2](/assets/bridcodes/b2.jpeg)
 
-![A starry night sky.](/assets/bridcodes/b5.jpeg)
+![Bridcodes App Screenshot 3](/assets/bridcodes/b3.jpeg)
 
-![A starry night sky.](/assets/bridcodes/b6.jpeg)
+![Bridcodes App Screenshot 4](/assets/bridcodes/b4.jpeg)
+
+![Bridcodes App Screenshot 5](/assets/bridcodes/b5.jpeg)
+
+![Bridcodes App Screenshot 6](/assets/bridcodes/b6.jpeg)

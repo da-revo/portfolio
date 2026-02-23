@@ -4,72 +4,51 @@ publishDate: 2019-09-01 00:00:00
 img: /assets/product-cycle.png
 img_alt: Product Cycle
 description: |
-  BananaFone
+  End-to-end product management case study — discovery through growth.
 tags:
   - Product Management
   - Consumer
   - Business
+category: project
 ---
 
-Created prototypes, design, user testing, roadmaps, backlog
-
-1. Product Discovery
-2. Strategy
-3. Development
-4. Launch
-5. Iteration
-6. Growth
+BananaFone is a product management case study covering the full product lifecycle from discovery to growth.
 
 #### Product Discovery
 
-- Quantitative & research
-- Primary & Secondary research
-<https://docs.google.com/document/d/1VnFf270VrupoEHgF06qhzEReBrSNfgjlCuyM2XQVVGE>
-- Opportunities identification
+- Quantitative and qualitative research
+- Primary and secondary research — [Research Document](https://docs.google.com/document/d/1VnFf270VrupoEHgF06qhzEReBrSNfgjlCuyM2XQVVGE)
+- Opportunity identification
 - Prototyping
-Interviews: <https://miro.com/app/board/uXjVKJsGBF8=/>
 - Design thinking
+- User interviews — [Interview Board](https://miro.com/app/board/uXjVKJsGBF8=/)
 
 #### Strategy
 
-- Vision
-- Strategy
-- Roadmap
-Vison, Strategy, Roadmap <https://docs.google.com/document/d/1LPwdkxROf4bKgdsqLG5TL2hhJq0IS0h4S_eqyYDkIdY>
-
-OKRs: assignment 1  
-
-- Strategic alignment
+- Vision, strategy, and roadmap — [Strategy Document](https://docs.google.com/document/d/1LPwdkxROf4bKgdsqLG5TL2hhJq0IS0h4S_eqyYDkIdY)
+- OKRs and strategic alignment
 
 #### Development
 
-- Backlog management
-Roadmap, User stories: <https://docs.google.com/document/d/19ZG6TmBZGmRQPMoD15iIe8270V-oVoz9QkGjWKASUlw>
+- Backlog management and user stories — [Development Document](https://docs.google.com/document/d/19ZG6TmBZGmRQPMoD15iIe8270V-oVoz9QkGjWKASUlw)
 - Agile delivery
-- MVP
+- MVP scoping
 - Usability testing
 
 #### Launch
 
-- Product market fit
-PMF, Optimization, Product Lifestyle <https://docs.google.com/document/d/1e0qysZ-RGD6Rotq3jMzWCyE3vBaMKA3lUOhnAzXfqBA>
-- Go to market
-- Pricing
-- KPIs
+- Product-market fit analysis — [Launch Document](https://docs.google.com/document/d/1e0qysZ-RGD6Rotq3jMzWCyE3vBaMKA3lUOhnAzXfqBA)
+- Go-to-market strategy
+- Pricing and KPIs
 
 #### Iteration
 
-- Learn from data
-Metrics Assignment 4
-Voice of Customer (Voc) + Data: <https://docs.google.com/spreadsheets/d/11eADFvoFWn-0dCXh3maMqCQlqUU64F7Du3h3b2jaLlo>
-- Action on data
-- A/B & multivariate test • Optimization
-- Enhancement
+- Data-driven iteration — [Voice of Customer + Data](https://docs.google.com/spreadsheets/d/11eADFvoFWn-0dCXh3maMqCQlqUU64F7Du3h3b2jaLlo)
+- A/B and multivariate testing
+- Optimization and enhancement
 
 #### Growth
 
-- Product lifecycle
-- Growth hacking
-- PLG Levers
-- Retention
-- Churn management
+- Product lifecycle management
+- Growth levers and PLG
+- Retention and churn management

@@ -2,35 +2,39 @@
 title: UManage
 publishDate: 2019-10-02 00:00:00
 img: /assets/umanage/umanage-logo.jpeg
-img_alt: Soft pink and baby blue water ripples together in a subtle texture.
+img_alt: UManage logo
 description: |
-  Created a mobile app for fleet management.
+  Built a fleet management mobile app with real-time GPS tracking.
 tags:
   - Flutter
   - App Dev
+  - REST
+category: experience
 ---
 
-I worked with my classmate at the time, [Rahul Sathanapalli (currently, Senior Software Engineer @ Bloomberg)](https://www.linkedin.com/in/skvrahul/), to build this app for Tonsetech.
+Built a Flutter iOS app for Tonsetech with [Rahul Sathanapalli](https://www.linkedin.com/in/skvrahul/) that tracked a fleet of GPS-connected vehicles in real-time. The app fetched vehicle data and locations via REST APIs and displayed them on a map with route history, street views, and path visualization.
 
-Created a Flutter iOS App that fetched the data and locations of a fleet of
-GPS-connected vehicles from a backend via REST API calls and displayed it on
-a map with additional features like displaying the history and paths taken by
-vehicles, mobile ads, street views of nearby locations, etc
+#### Tools Used
+
+- Flutter
+- Dart
+- REST
+- iOS
 
 ## Screenshots
 
-![A starry night sky.](/assets/umanage/u1.png)
+![UManage Screenshot 1](/assets/umanage/u1.png)
 
-![A starry night sky.](/assets/umanage/u2.png)
+![UManage Screenshot 2](/assets/umanage/u2.png)
 
-![A starry night sky.](/assets/umanage/u3.jpg)
+![UManage Screenshot 3](/assets/umanage/u3.jpg)
 
-![A starry night sky.](/assets/umanage/u4.jpg)
+![UManage Screenshot 4](/assets/umanage/u4.jpg)
 
-![A starry night sky.](/assets/umanage/u5.jpg)
+![UManage Screenshot 5](/assets/umanage/u5.jpg)
 
-![A starry night sky.](/assets/umanage/u6.png)
+![UManage Screenshot 6](/assets/umanage/u6.png)
 
-![A starry night sky.](/assets/umanage/u7.jpg)
+![UManage Screenshot 7](/assets/umanage/u7.jpg)
 
-![A starry night sky.](/assets/umanage/u8.jpg)
+![UManage Screenshot 8](/assets/umanage/u8.jpg)
